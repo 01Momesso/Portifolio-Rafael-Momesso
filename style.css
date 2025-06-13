@@ -1,9 +1,9 @@
-/* Fonte moderna + fundo */
+
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(to right, #000000, #f74646); /* preto pro cinza */
     color: white;
-    margin-top: 80px; /* espaço por causa da navbar fixa */
+    margin-top: 80px; 
 }
 
 /* Cores das badges com sua marca */
